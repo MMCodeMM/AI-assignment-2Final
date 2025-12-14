@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MMCodeMM/AI-assignment-2Final/issues"
   },
-  "homepage": "https://github.com/MMCodeMM/AI-assignment-2Final#readme"
+  "homepage": "https://github.com/MMCodeMM/AI-assignment-2Final#readme",
+  "dependencies": {
+    "image-dataset": "^1.12.2-cpu"
+  }
 }
